@@ -1,0 +1,10 @@
+D:\Загрузки\RayTracer-master\bin\Debug\RayTracer.exe.config
+D:\Загрузки\RayTracer-master\bin\Debug\RayTracer.exe
+D:\Загрузки\RayTracer-master\bin\Debug\RayTracer.pdb
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.csprojAssemblyReference.cache
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.Form1.resources
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.Properties.Resources.resources
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.csproj.GenerateResource.cache
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.csproj.CoreCompileInputs.cache
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.exe
+D:\Загрузки\RayTracer-master\obj\Debug\RayTracer.pdb

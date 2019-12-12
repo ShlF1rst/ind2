@@ -1,1 +1,2 @@
-# ind2
+# RayTracer
+Cornell box implementation using simple raytracing
